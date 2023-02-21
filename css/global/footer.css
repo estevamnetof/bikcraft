@@ -34,7 +34,6 @@
 .footer-redes {
     display: flex;
     gap: 32px;
-    margin-left: -32px;
 }
 
 .footer a:hover {
